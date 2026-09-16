@@ -1,1 +1,2 @@
-# DSA-LABS
+# DSA-LAB-2
+In this lab I covered core C++ pointer skills: checking type sizes, understanding pointer arithmetic and its limits, and traversing arrays via pointers instead of indexing. It moved into pointer/double-pointer function swaps, then dynamic 2D arrays for student marks with proper allocation and cleanup. It also covered growing an array by reallocating and copying data, and finished by debugging a fragment with an out-of-bounds write, a new[]/delete mismatch, and a dangling pointer.
